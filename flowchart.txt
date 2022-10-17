@@ -1,0 +1,14 @@
+CHART PREPARATION: 
+
+1) Palindrome
+2) Addition of Digits
+3) Count of Digits
+4) Armstrong Number
+5) Decimal to Binary
+6) Binary to Decimal
+7) Prime Number
+8) Least Common Multiple
+9) Greatest Common Divisor
+10) Fibonacci Series
+
+
